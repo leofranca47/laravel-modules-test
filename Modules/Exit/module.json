@@ -1,0 +1,13 @@
+{
+    "name": "Exit",
+    "alias": "exit",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Exit\\Providers\\ExitServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
